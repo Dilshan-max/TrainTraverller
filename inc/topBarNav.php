@@ -51,7 +51,7 @@
         
         <div class="container">
           <a href="./" class="navbar-brand">
-            <img src="<?php echo validate_image($_settings->info('logo'))?>" alt="Site Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
+            <img src="https://cdn-icons-png.flaticon.com/512/3/3843.png" alt="Site Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
             <span><?= $_settings->info('short_name') ?></span>
           </a>
 

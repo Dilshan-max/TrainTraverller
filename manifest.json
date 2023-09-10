@@ -1,0 +1,7 @@
+{
+    "name": "Train Traveller",
+    "short_name": "TrainTraveller",
+    "start_url": "/index.html",
+    "display" : "standalone",
+    "orientation" : "portrait-primary"
+}
